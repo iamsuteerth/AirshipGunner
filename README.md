@@ -9,7 +9,7 @@ Second android project. Basic game inspired by Galaga and Flappy Bird
 ## Controls
 >Press on *LEFT* part of screen to engage vertical movement and release to bring down aircraft.
 
->Press on *RIGHT* to shoot missles.
+>Press on *RIGHT* to shoot missiles.
 
 >You **CANNOT** shoot while moving upward, only one touch function is valid!
 
