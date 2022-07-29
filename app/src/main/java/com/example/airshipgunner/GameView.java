@@ -121,9 +121,9 @@ public class GameView extends SurfaceView implements Runnable {
         }
 
         if (flight.isGoingUp) {
-            flight.y -= 10 * screenRatioX; //- means that we are moving up on canvas
+            flight.y -= 18 * screenRatioX; //- means that we are moving up on canvas
         } else {
-            flight.y += 10 * screenRatioY;
+            flight.y += 18 * screenRatioY;
         }
 
         if (flight.y < 0){
@@ -147,6 +147,7 @@ public class GameView extends SurfaceView implements Runnable {
                         bullet.getCollisionShape())) {
                     score++;
                     bird.x = -500;
+                    bullet.x = screenX + 500;
                     getRuntime().gc();//Places bullet off screen, thus the condition is recheckec
                     bird.wasShot = true;
                 }
