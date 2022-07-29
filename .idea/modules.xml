@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Airship_Gunner.iml" filepath="$PROJECT_DIR$/.idea/modules/Airship_Gunner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Airship_Gunner.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>
