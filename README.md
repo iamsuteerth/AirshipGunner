@@ -1,7 +1,7 @@
 # AirshipGunner
 Second android project. Basic game inspired by Galaga and Flappy Bird
 
-<p align="center"><a href="https://mega.nz/file/aNRWGJiK#F8QNsxLuei90ZBvRSa2JLwb0KWdKgVSXkGnQbRAJHdk">Download APK</a></p>
+<p align="center"><a href="https://mega.nz/file/aUwhnaZD#ekJxUekbm8gXPgwlpy2Rigm9va__obasXBfHDXrsgrA">Download APK</a></p>
 
 ## Objective
 *Your Objective in this game is to eliminate as many birdies as possible. The game will be over if a bird touches you or reaches the end!*
