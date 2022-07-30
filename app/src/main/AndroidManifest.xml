@@ -14,7 +14,6 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AirshipGunner"
         tools:targetApi="29"
-        android:hardwareAccelerated="true"
         android:isGame="true" >
         <activity android:name=".GamePage"
             android:theme="@style/Theme.AirshipGunner"
