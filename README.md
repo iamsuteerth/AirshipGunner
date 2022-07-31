@@ -3,6 +3,16 @@ Second android project. Basic game inspired by Galaga and Flappy Bird
 
 <p align="center"><a href="https://mega.nz/file/bEJHAJyC#EdTHluNYyVh-zJdeBHPM9HBfDNMxMSmB2l3wX9ri4WI">Download APK</a></p>
 
+## Project Description
+*This project's aim was to learn about bitmaps, classes, creating activity without xmls, using canvas methods, showcasing screen compatibility using screen ratios, background image infinite loop and creating animations in a basic fashion*
+
+### Tech Stack Used
+>Java
+
+>PNG resizing, H_WARE ACCELERATION Flags, SoundPools, onTouchEvent, Rect class, Threads
+
+>Canvas Methods, Bitmaps, Bitmap Factory and scaled Bitmaps
+
 ## Objective
 *Your Objective in this game is to eliminate as many birdies as possible. The game will be over if a bird touches you or reaches the end!*
 
